@@ -1,0 +1,2 @@
+qiangda_resources
+=================
